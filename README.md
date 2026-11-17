@@ -11,7 +11,7 @@ I'm a Starting Developer.
 - Java Script
 - Git & Github
 
-##Projects
+## Projects
 - Portfolio Websites
 
 ## Contact
